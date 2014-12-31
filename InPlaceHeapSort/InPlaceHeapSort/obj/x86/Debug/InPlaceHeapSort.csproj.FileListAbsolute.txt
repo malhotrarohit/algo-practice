@@ -1,0 +1,7 @@
+D:\Coding\InPlaceHeapSort\InPlaceHeapSort\bin\Debug\InPlaceHeapSort.exe
+D:\Coding\InPlaceHeapSort\InPlaceHeapSort\bin\Debug\InPlaceHeapSort.pdb
+D:\Coding\InPlaceHeapSort\InPlaceHeapSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\InPlaceHeapSort\InPlaceHeapSort\obj\x86\Debug\InPlaceHeapSort.exe
+D:\Coding\InPlaceHeapSort\InPlaceHeapSort\obj\x86\Debug\InPlaceHeapSort.pdb
+E:\Local Disk D\Coding\InPlaceHeapSort\InPlaceHeapSort\obj\x86\Debug\InPlaceHeapSort.exe
+E:\Local Disk D\Coding\InPlaceHeapSort\InPlaceHeapSort\obj\x86\Debug\InPlaceHeapSort.pdb

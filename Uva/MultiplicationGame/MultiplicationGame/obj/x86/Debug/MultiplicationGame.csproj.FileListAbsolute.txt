@@ -1,0 +1,5 @@
+D:\Coding\MultiplicationGame\MultiplicationGame\bin\Debug\MultiplicationGame.exe
+D:\Coding\MultiplicationGame\MultiplicationGame\bin\Debug\MultiplicationGame.pdb
+D:\Coding\MultiplicationGame\MultiplicationGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\MultiplicationGame\MultiplicationGame\obj\x86\Debug\MultiplicationGame.exe
+D:\Coding\MultiplicationGame\MultiplicationGame\obj\x86\Debug\MultiplicationGame.pdb

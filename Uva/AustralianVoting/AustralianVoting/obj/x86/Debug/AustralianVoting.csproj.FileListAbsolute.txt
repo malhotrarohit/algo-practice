@@ -1,0 +1,5 @@
+D:\Coding\AustralianVoting\AustralianVoting\bin\Debug\AustralianVoting.exe
+D:\Coding\AustralianVoting\AustralianVoting\bin\Debug\AustralianVoting.pdb
+D:\Coding\AustralianVoting\AustralianVoting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\AustralianVoting\AustralianVoting\obj\x86\Debug\AustralianVoting.exe
+D:\Coding\AustralianVoting\AustralianVoting\obj\x86\Debug\AustralianVoting.pdb

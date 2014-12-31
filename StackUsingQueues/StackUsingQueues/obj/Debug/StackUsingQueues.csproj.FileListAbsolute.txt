@@ -1,0 +1,1 @@
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\StackUsingQueues\StackUsingQueues\bin\Debug\StackUsingQueues.exe.config

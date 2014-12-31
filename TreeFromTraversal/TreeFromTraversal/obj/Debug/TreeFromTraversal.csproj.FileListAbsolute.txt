@@ -1,0 +1,6 @@
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TreeFromTraversal\TreeFromTraversal\bin\Debug\TreeFromTraversal.exe.config
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TreeFromTraversal\TreeFromTraversal\bin\Debug\TreeFromTraversal.exe
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TreeFromTraversal\TreeFromTraversal\bin\Debug\TreeFromTraversal.pdb
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TreeFromTraversal\TreeFromTraversal\obj\Debug\TreeFromTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TreeFromTraversal\TreeFromTraversal\obj\Debug\TreeFromTraversal.exe
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\TreeFromTraversal\TreeFromTraversal\obj\Debug\TreeFromTraversal.pdb

@@ -1,0 +1,7 @@
+D:\Coding\Heap\Heap\bin\Debug\Heap.exe
+D:\Coding\Heap\Heap\bin\Debug\Heap.pdb
+D:\Coding\Heap\Heap\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\Heap\Heap\obj\x86\Debug\Heap.exe
+D:\Coding\Heap\Heap\obj\x86\Debug\Heap.pdb
+E:\Local Disk D\Coding\Heap\Heap\obj\x86\Debug\Heap.exe
+E:\Local Disk D\Coding\Heap\Heap\obj\x86\Debug\Heap.pdb

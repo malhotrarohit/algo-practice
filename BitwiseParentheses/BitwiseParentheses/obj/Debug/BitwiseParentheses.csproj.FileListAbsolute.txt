@@ -1,0 +1,6 @@
+E:\Local Disk D\Coding\BitwiseParentheses\BitwiseParentheses\bin\Debug\BitwiseParentheses.exe.config
+E:\Local Disk D\Coding\BitwiseParentheses\BitwiseParentheses\bin\Debug\BitwiseParentheses.exe
+E:\Local Disk D\Coding\BitwiseParentheses\BitwiseParentheses\bin\Debug\BitwiseParentheses.pdb
+E:\Local Disk D\Coding\BitwiseParentheses\BitwiseParentheses\obj\Debug\BitwiseParentheses.csprojResolveAssemblyReference.cache
+E:\Local Disk D\Coding\BitwiseParentheses\BitwiseParentheses\obj\Debug\BitwiseParentheses.exe
+E:\Local Disk D\Coding\BitwiseParentheses\BitwiseParentheses\obj\Debug\BitwiseParentheses.pdb

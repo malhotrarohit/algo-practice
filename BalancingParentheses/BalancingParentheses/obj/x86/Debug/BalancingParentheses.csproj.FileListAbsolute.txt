@@ -1,0 +1,7 @@
+D:\Coding\BalancingParentheses\BalancingParentheses\bin\Debug\BalancingParentheses.exe
+D:\Coding\BalancingParentheses\BalancingParentheses\bin\Debug\BalancingParentheses.pdb
+D:\Coding\BalancingParentheses\BalancingParentheses\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\BalancingParentheses\BalancingParentheses\obj\x86\Debug\BalancingParentheses.exe
+D:\Coding\BalancingParentheses\BalancingParentheses\obj\x86\Debug\BalancingParentheses.pdb
+E:\Local Disk D\Coding\BalancingParentheses\BalancingParentheses\obj\x86\Debug\BalancingParentheses.exe
+E:\Local Disk D\Coding\BalancingParentheses\BalancingParentheses\obj\x86\Debug\BalancingParentheses.pdb

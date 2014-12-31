@@ -1,0 +1,6 @@
+D:\Coding\bubblesort\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+D:\Coding\bubblesort\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+D:\Coding\bubblesort\bubblesort\bubblesort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\bubblesort\bubblesort\bubblesort\obj\x86\Debug\bubblesort.exe
+D:\Coding\bubblesort\bubblesort\bubblesort\obj\x86\Debug\bubblesort.pdb
+D:\Coding\bubblesort\bubblesort\bubblesort\bin\Debug\bubblesort.exe.config

@@ -1,0 +1,5 @@
+D:\Coding\PrimaryArithmetic\PrimaryArithmetic\bin\Debug\PrimaryArithmetic.exe
+D:\Coding\PrimaryArithmetic\PrimaryArithmetic\bin\Debug\PrimaryArithmetic.pdb
+D:\Coding\PrimaryArithmetic\PrimaryArithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\PrimaryArithmetic\PrimaryArithmetic\obj\x86\Debug\PrimaryArithmetic.exe
+D:\Coding\PrimaryArithmetic\PrimaryArithmetic\obj\x86\Debug\PrimaryArithmetic.pdb

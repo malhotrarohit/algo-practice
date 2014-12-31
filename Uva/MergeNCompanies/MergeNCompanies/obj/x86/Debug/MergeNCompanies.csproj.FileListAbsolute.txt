@@ -1,0 +1,5 @@
+D:\Coding\MergeNCompanies\MergeNCompanies\bin\Debug\MergeNCompanies.exe
+D:\Coding\MergeNCompanies\MergeNCompanies\bin\Debug\MergeNCompanies.pdb
+D:\Coding\MergeNCompanies\MergeNCompanies\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\MergeNCompanies\MergeNCompanies\obj\x86\Debug\MergeNCompanies.exe
+D:\Coding\MergeNCompanies\MergeNCompanies\obj\x86\Debug\MergeNCompanies.pdb

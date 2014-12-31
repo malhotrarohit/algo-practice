@@ -1,0 +1,5 @@
+D:\Coding\SortNegativesAndPositives\SortNegativesAndPositives\bin\Debug\SortNegativesAndPositives.exe
+D:\Coding\SortNegativesAndPositives\SortNegativesAndPositives\bin\Debug\SortNegativesAndPositives.pdb
+D:\Coding\SortNegativesAndPositives\SortNegativesAndPositives\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\SortNegativesAndPositives\SortNegativesAndPositives\obj\x86\Debug\SortNegativesAndPositives.exe
+D:\Coding\SortNegativesAndPositives\SortNegativesAndPositives\obj\x86\Debug\SortNegativesAndPositives.pdb

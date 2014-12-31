@@ -1,0 +1,5 @@
+D:\Coding\PrimeFactorization\PrimeFactorization\bin\Debug\PrimeFactorization.exe
+D:\Coding\PrimeFactorization\PrimeFactorization\bin\Debug\PrimeFactorization.pdb
+D:\Coding\PrimeFactorization\PrimeFactorization\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.exe
+D:\Coding\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.pdb

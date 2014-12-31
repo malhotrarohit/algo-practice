@@ -1,0 +1,5 @@
+D:\Coding\SetIntersection\SetIntersection\bin\Debug\SetIntersection.exe
+D:\Coding\SetIntersection\SetIntersection\bin\Debug\SetIntersection.pdb
+D:\Coding\SetIntersection\SetIntersection\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\SetIntersection\SetIntersection\obj\x86\Debug\SetIntersection.exe
+D:\Coding\SetIntersection\SetIntersection\obj\x86\Debug\SetIntersection.pdb

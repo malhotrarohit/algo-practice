@@ -1,0 +1,10 @@
+D:\Coding\PermutateAString\PermutateAString\bin\Debug\PermutateAString.exe
+D:\Coding\PermutateAString\PermutateAString\bin\Debug\PermutateAString.pdb
+D:\Coding\PermutateAString\PermutateAString\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\PermutateAString\PermutateAString\obj\x86\Debug\PermutateAString.exe
+D:\Coding\PermutateAString\PermutateAString\obj\x86\Debug\PermutateAString.pdb
+E:\Local Disk D\Coding\PermutateAString\PermutateAString\obj\x86\Debug\PermutateAString.exe
+E:\Local Disk D\Coding\PermutateAString\PermutateAString\obj\x86\Debug\PermutateAString.pdb
+E:\Local Disk D\Coding\PermutateAString\PermutateAString\bin\Debug\PermutateAString.exe
+E:\Local Disk D\Coding\PermutateAString\PermutateAString\bin\Debug\PermutateAString.pdb
+E:\Local Disk D\Coding\PermutateAString\PermutateAString\obj\x86\Debug\PermutateAString.csprojResolveAssemblyReference.cache

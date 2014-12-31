@@ -1,0 +1,5 @@
+D:\Coding\K-Subsets\K-Subsets\bin\Debug\K-Subsets.exe
+D:\Coding\K-Subsets\K-Subsets\bin\Debug\K-Subsets.pdb
+D:\Coding\K-Subsets\K-Subsets\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\K-Subsets\K-Subsets\obj\x86\Debug\K-Subsets.exe
+D:\Coding\K-Subsets\K-Subsets\obj\x86\Debug\K-Subsets.pdb

@@ -1,0 +1,6 @@
+E:\Local Disk D\Coding\RobotNavigation\RobotNavigation\bin\Debug\RobotNavigation.exe.config
+E:\Local Disk D\Coding\RobotNavigation\RobotNavigation\obj\Debug\RobotNavigation.csprojResolveAssemblyReference.cache
+E:\Local Disk D\Coding\RobotNavigation\RobotNavigation\bin\Debug\RobotNavigation.exe
+E:\Local Disk D\Coding\RobotNavigation\RobotNavigation\bin\Debug\RobotNavigation.pdb
+E:\Local Disk D\Coding\RobotNavigation\RobotNavigation\obj\Debug\RobotNavigation.exe
+E:\Local Disk D\Coding\RobotNavigation\RobotNavigation\obj\Debug\RobotNavigation.pdb

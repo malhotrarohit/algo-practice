@@ -1,0 +1,7 @@
+D:\Coding\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+D:\Coding\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+D:\Coding\Quicksort\Quicksort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\Quicksort\Quicksort\obj\x86\Debug\Quicksort.exe
+D:\Coding\Quicksort\Quicksort\obj\x86\Debug\Quicksort.pdb
+E:\Local Disk D\Coding\Quicksort\Quicksort\obj\x86\Debug\Quicksort.exe
+E:\Local Disk D\Coding\Quicksort\Quicksort\obj\x86\Debug\Quicksort.pdb

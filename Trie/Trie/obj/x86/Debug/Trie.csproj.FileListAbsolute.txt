@@ -1,0 +1,5 @@
+D:\Coding\Trie\Trie\bin\Debug\Trie.exe
+D:\Coding\Trie\Trie\bin\Debug\Trie.pdb
+D:\Coding\Trie\Trie\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\Trie\Trie\obj\x86\Debug\Trie.exe
+D:\Coding\Trie\Trie\obj\x86\Debug\Trie.pdb

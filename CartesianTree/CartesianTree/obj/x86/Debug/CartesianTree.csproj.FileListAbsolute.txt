@@ -1,0 +1,5 @@
+D:\Coding\CartesianTree\CartesianTree\bin\Debug\CartesianTree.exe
+D:\Coding\CartesianTree\CartesianTree\bin\Debug\CartesianTree.pdb
+D:\Coding\CartesianTree\CartesianTree\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\CartesianTree\CartesianTree\obj\x86\Debug\CartesianTree.exe
+D:\Coding\CartesianTree\CartesianTree\obj\x86\Debug\CartesianTree.pdb

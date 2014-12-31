@@ -1,0 +1,5 @@
+D:\Coding\BinaryDivision\BinaryDivision\bin\Debug\BinaryDivision.exe
+D:\Coding\BinaryDivision\BinaryDivision\bin\Debug\BinaryDivision.pdb
+D:\Coding\BinaryDivision\BinaryDivision\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\BinaryDivision\BinaryDivision\obj\x86\Debug\BinaryDivision.exe
+D:\Coding\BinaryDivision\BinaryDivision\obj\x86\Debug\BinaryDivision.pdb

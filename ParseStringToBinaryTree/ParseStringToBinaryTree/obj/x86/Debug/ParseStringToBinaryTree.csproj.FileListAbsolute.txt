@@ -1,0 +1,5 @@
+D:\Coding\ParseStringToBinaryTree\ParseStringToBinaryTree\bin\Debug\ParseStringToBinaryTree.exe
+D:\Coding\ParseStringToBinaryTree\ParseStringToBinaryTree\bin\Debug\ParseStringToBinaryTree.pdb
+D:\Coding\ParseStringToBinaryTree\ParseStringToBinaryTree\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\ParseStringToBinaryTree\ParseStringToBinaryTree\obj\x86\Debug\ParseStringToBinaryTree.exe
+D:\Coding\ParseStringToBinaryTree\ParseStringToBinaryTree\obj\x86\Debug\ParseStringToBinaryTree.pdb

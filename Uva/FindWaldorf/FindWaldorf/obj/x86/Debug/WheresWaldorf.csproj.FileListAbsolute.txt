@@ -1,0 +1,6 @@
+D:\Coding\FindWaldorf\FindWaldorf\bin\Debug\FindWaldorf.exe.config
+D:\Coding\FindWaldorf\FindWaldorf\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\FindWaldorf\FindWaldorf\bin\Debug\FindWaldorf.exe
+D:\Coding\FindWaldorf\FindWaldorf\bin\Debug\FindWaldorf.pdb
+D:\Coding\FindWaldorf\FindWaldorf\obj\x86\Debug\FindWaldorf.exe
+D:\Coding\FindWaldorf\FindWaldorf\obj\x86\Debug\FindWaldorf.pdb

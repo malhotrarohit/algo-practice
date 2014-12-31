@@ -1,0 +1,5 @@
+D:\Coding\The Trip\The Trip\bin\Debug\The Trip.exe
+D:\Coding\The Trip\The Trip\bin\Debug\The Trip.pdb
+D:\Coding\The Trip\The Trip\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\The Trip\The Trip\obj\x86\Debug\The Trip.exe
+D:\Coding\The Trip\The Trip\obj\x86\Debug\The Trip.pdb

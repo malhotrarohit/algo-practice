@@ -1,0 +1,5 @@
+D:\Coding\Subsets\Subsets\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\Subsets\Subsets\bin\Debug\Subsets.exe
+D:\Coding\Subsets\Subsets\bin\Debug\Subsets.pdb
+D:\Coding\Subsets\Subsets\obj\x86\Debug\Subsets.exe
+D:\Coding\Subsets\Subsets\obj\x86\Debug\Subsets.pdb

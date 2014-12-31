@@ -1,0 +1,6 @@
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\ReverseStack\ReverseStack\bin\Debug\ReverseStack.exe.config
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\ReverseStack\ReverseStack\obj\Debug\ReverseStack.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\ReverseStack\ReverseStack\bin\Debug\ReverseStack.exe
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\ReverseStack\ReverseStack\bin\Debug\ReverseStack.pdb
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\ReverseStack\ReverseStack\obj\Debug\ReverseStack.exe
+C:\Users\Rohit\Documents\Visual Studio 2013\Projects\ReverseStack\ReverseStack\obj\Debug\ReverseStack.pdb

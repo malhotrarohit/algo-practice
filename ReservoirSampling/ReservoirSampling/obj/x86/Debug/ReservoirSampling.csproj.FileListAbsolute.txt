@@ -1,0 +1,5 @@
+D:\Coding\ReservoirSampling\ReservoirSampling\bin\Debug\ReservoirSampling.exe
+D:\Coding\ReservoirSampling\ReservoirSampling\bin\Debug\ReservoirSampling.pdb
+D:\Coding\ReservoirSampling\ReservoirSampling\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Coding\ReservoirSampling\ReservoirSampling\obj\x86\Debug\ReservoirSampling.exe
+D:\Coding\ReservoirSampling\ReservoirSampling\obj\x86\Debug\ReservoirSampling.pdb
